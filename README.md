@@ -11,7 +11,7 @@
     * Automatically installed as part of Anaconda. More information at [Project Jupyter](http://jupyter.org/).
     * To start the notebook server from the command line type 'jupyter notebook' 
 * Download R kernel for Juptyer notebook
-    * [Download](https://irkernel.github.io/installation/) and make available the kernal to Jupyter
+    * [Download](https://irkernel.github.io/installation/) and make available the kernel to Jupyter
 
 ## Class 5 (3/1): R for Descriptive and Elementary Data Analysis and Probability Functions
 * TBA
