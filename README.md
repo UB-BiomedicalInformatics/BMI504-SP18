@@ -14,13 +14,21 @@
     * [Download](https://irkernel.github.io/installation/) and make available the kernel to Jupyter
 
 ## Class 5 (3/1): R for Descriptive and Elementary Data Analysis and Probability Functions
-* TBA
+* iPython notebook (BMI504_Class5.ipynb) describes:
+    * Random Variables: Discrete and ContinuousAnalysis
+    * Cumulative Probability Distributions, Cumulative Density Functions, Probability Density Functions, and Probability Mass Functions
+    * The Law of Large Numbersand
+    * ggplot2 tutorial and descriptive statistics
 
 ## Class 6 (3/8): Statistics I: Probability Theory, Sample Theory, Intro to Inferential Statistics
-* TBA
+* Slides are in UB Box
+*  iPython notebook (BMI504_Class6.ipynb) describes:
+    * Central Limit Theorem
+    * One Sample, Two Sample, and Paired Tests for Continuous and Discrete data
 
 ## Class 12 (4/26):Statistics II: Correlation, Simple Linear Regression, Intro to Multiple Regression
-* TBA
+* Slides are in UB Box
+* R script (SimpleLinearRegression_BMI504_SP18.R)
 
 ## Class 13 (5/3):Statistics III: Multiple Linear Regression and Logistic Regression
 * TBA
