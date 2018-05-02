@@ -21,14 +21,15 @@
     * ggplot2 tutorial and descriptive statistics
 
 ## Class 6 (3/8): Statistics I: Probability Theory, Sample Theory, Intro to Inferential Statistics
-* Slides are in UB Box
+* Slides and HW are in UB Box
 *  iPython notebook (BMI504_Class6.ipynb) describes:
     * Central Limit Theorem
     * One Sample, Two Sample, and Paired Tests for Continuous and Discrete data
 
 ## Class 12 (4/26):Statistics II: Correlation, Simple Linear Regression, Intro to Multiple Regression
-* Slides are in UB Box
-* R script (SimpleLinearRegression_BMI504_SP18.R)
+* Slides and HW are in UB Box
+* R script (Class 13 R Script.R)
 
 ## Class 13 (5/3):Statistics III: Multiple Linear Regression and Logistic Regression
-* TBA
+* Slides are in UB Box
+* R script (SimpleLinearRegression_BMI504_SP18.R)
