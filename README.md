@@ -15,9 +15,9 @@
 
 ## Class 5 (3/1): R for Descriptive and Elementary Data Analysis and Probability Functions
 * iPython notebook (BMI504_Class5.ipynb) describes:
-    * Random Variables: Discrete and ContinuousAnalysis
+    * Random Variables: Discrete and Continuous Analysis
     * Cumulative Probability Distributions, Cumulative Density Functions, Probability Density Functions, and Probability Mass Functions
-    * The Law of Large Numbersand
+    * The Law of Large Numbers and
     * ggplot2 tutorial and descriptive statistics
 
 ## Class 6 (3/8): Statistics I: Probability Theory, Sample Theory, Intro to Inferential Statistics
